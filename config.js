@@ -49,11 +49,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sig = 'https://instagram.com/andhiikagg' // ig
+global.sgh = 'https://github.com/AndhikaGG/' // github
+global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://www.youtube.com/@andhikagg' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
@@ -64,16 +64,16 @@ global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
 global.ppulsa = '08XXXXXXXXXX' //telkomsel
 global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.psaweria = 'https://saweria.com/andhikagg'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
+global.nomorbot = '6281358929103'
+global.nomorown = '6285749618902'
 global.namebot = 'WH-MODS-BOT-V1'
 global.nameown = 'WH MODS DEV'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'WH-MODS-BOT' // nama github lu
+global.namagithub = 'AndhikaGG' // nama github lu
 global.linkgithub = sgh // EDIT LINK GITHUB DI global.sgh
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
@@ -86,7 +86,7 @@ global.openaikey = "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"
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
+  ['6285749618902', 'Andhika', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -158,14 +158,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ WH-MODS-BOT-V1"
+global.wm = '                「 ND Botz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ ND Botz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ ND Botz"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "WH MODS DEV 乂 WH MODS BOT"
+global.author = "ND Botz 乂 AndhikaGG"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
@@ -239,8 +239,8 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'ND Botz'
+global.stickauth = `Dibuat Sama\n©ND Botz\nby AndhikaGG\nNo Bot 081358929103`
 
 global.multiplier = 69 // The higher, The harder levelup
 
